@@ -3,9 +3,9 @@
 
 ## I'm a Full Stack Developer, who love to code! 
 
-- 📚 I’m currently learning Nodejs, Javascript, Nodejs and serverless.
+- 📚 I’m currently learning Go Lang and Python.
 - 👯 I’m looking to collaborate with other passionate developers.
-- 🥅 2021 Goals: Master React,React Native Complete MERN Stack. Contribute to Open Source projects.
+- 🥅 2024 Goals: Kubernates, LLM Modeling.
 - ⚡ Fun fact: I love to learn new technology on my free time & travel new places.
 
 ### Languages and Tools:
