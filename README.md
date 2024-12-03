@@ -5,7 +5,7 @@
 
 - 📚 I’m currently learning Go Lang and Python.
 - 👯 I’m looking to collaborate with other passionate developers.
-- 🥅 2024 Goals: Kubernates, LLM Modeling.
+- 🥅 2025 Goals: LLM Modeling, AI base Product.
 - ⚡ Fun fact: I love to learn new technology on my free time & travel new places.
 
 ### Languages and Tools:
